@@ -356,9 +356,10 @@ The output is a comma separated IDs of polygons like
     </th>
   </tr>
 </table>
-## Table of Contents
 
-#### [Class point]
+##  Table of Contents
+
+####  [Class point]
  - **Summary:** simple class of a point and some functions doing on it .
  
 #### [Class Polygon]
